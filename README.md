@@ -1,0 +1,1 @@
+This project only has Java backend with springboot, hibernate jpa with MySql jdbc driver to handle MySql database for data persistence. This project does not have any user specific role or access with respect to security configuration. That would be added going forward.
